@@ -1,0 +1,298 @@
+[
+    [
+        "/Users/kreece/sfdx/ulidx/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/ulidx/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1551260997477,
+            "changeTime": 1551260997477,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ulidx/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/ulidx/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1551260997478,
+            "changeTime": 1551260997478,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ulidx/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ulidx/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1551262472160,
+            "changeTime": 1551262472160,
+            "contentHash": "7e7910cc3b583c00d5f3ad0fac6265915595edf9"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ulidx/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/ulidx/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1551260997478,
+            "changeTime": 1551260997478,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ulidx/force-app/main/default/lwc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/ulidx/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1551261128866,
+            "changeTime": 1551261128866,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ulidx",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/ulidx",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1551261101506,
+            "changeTime": 1551261101506,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ulidx/force-app/main/default/objects/Employee__c/Employee__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ulidx/force-app/main/default/objects/Employee__c/Employee__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2152,
+            "modifiedTime": 1551262472103,
+            "changeTime": 1551262472103,
+            "contentHash": "b1944e2b941c6767ef13e0c40c064235fd3ad16d"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ulidx/force-app/main/default/objects/Employee__c/listViews/All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ulidx/force-app/main/default/objects/Employee__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1551262472104,
+            "changeTime": 1551262472104,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ulidx/force-app/main/default/layouts/Employee__c-Employee Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ulidx/force-app/main/default/layouts/Employee__c-Employee Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2654,
+            "modifiedTime": 1551262472115,
+            "changeTime": 1551262472115,
+            "contentHash": "28575ef244e6c8cff05aecb18a733606d2593b2e"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ulidx/force-app/main/default/tabs/Employee__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ulidx/force-app/main/default/tabs/Employee__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 223,
+            "modifiedTime": 1551262472120,
+            "changeTime": 1551262472120,
+            "contentHash": "6e6ce36238c68c3363a64744a7072e1a6ec83ae1"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ulidx/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ulidx/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5002,
+            "modifiedTime": 1551262472127,
+            "changeTime": 1551262472127,
+            "contentHash": "0011ed54fbf45a3d05da1e33ec3cbe0ce01f2dba"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ulidx/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ulidx/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4664,
+            "modifiedTime": 1551262472134,
+            "changeTime": 1551262472134,
+            "contentHash": "6494a990952d6889334d695177f4a1616e050302"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ulidx/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ulidx/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4664,
+            "modifiedTime": 1551262472140,
+            "changeTime": 1551262472140,
+            "contentHash": "6494a990952d6889334d695177f4a1616e050302"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ulidx/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ulidx/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19140,
+            "modifiedTime": 1551262472155,
+            "changeTime": 1551262472155,
+            "contentHash": "2a3926a98bfc6766a751c6289a9bb3b313a74366"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ulidx/force-app/main/default/settings/Security.settings-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ulidx/force-app/main/default/settings/Security.settings-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2639,
+            "modifiedTime": 1551262472162,
+            "changeTime": 1551262472162,
+            "contentHash": "e6a5845f9e29aedaad892d6cc7b21da80f78d356"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ulidx/force-app/main/default/objects/Employee__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ulidx/force-app/main/default/objects/Employee__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1551262472104,
+            "changeTime": 1551262472104,
+            "contentHash": "9a5f3743f9814095b34ea84d4ce2cff10b7a92a6"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ulidx/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ulidx/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1551262472100,
+            "changeTime": 1551262472100,
+            "contentHash": "b55e89b820e04112537fad94f319312e07f6509e"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ulidx/force-app/main/default/objects/Employee__c/listViews",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ulidx/force-app/main/default/objects/Employee__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1551262472104,
+            "changeTime": 1551262472104,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ulidx/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ulidx/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1551262472115,
+            "changeTime": 1551262472115,
+            "contentHash": "3bd159f19c78bea1ad7b7576539f20f840379339"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ulidx/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ulidx/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1551262472120,
+            "changeTime": 1551262472120,
+            "contentHash": "9333901ef9dcf84db6cf77f37b3f4087c739a7a1"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ulidx/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ulidx/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1551262472155,
+            "changeTime": 1551262472155,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/ulidx/force-app/main/default/settings",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/ulidx/force-app/main/default/settings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1551262472162,
+            "changeTime": 1551262472162,
+            "contentHash": "e364e4d3c503804e0ca6d6bb92ab9cc0ceac2327"
+        }
+    ]
+]
